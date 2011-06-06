@@ -4,7 +4,7 @@ Donate link: http://bhattachariya.wordpress.com/
 Tags: search, form, widget, submit
 Requires at least: 3.1.0
 Tested up to: 3.1.2
-Stable tag: 
+Stable tag: trunk
 
 Custom Search widget with customizable search button text and title
 
