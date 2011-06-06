@@ -1,11 +1,11 @@
 <?php
 /* ------------------------------------------------------------------------------
 Plugin Name: custom-search-form
-Plugin URI: http://127.0.0.1:8080
+Plugin URI: http://wordpress.org/extend/plugins/custom-search-form/
 Description: Custom Search widget with customizable search button text and title
 Author: Bhaskar Bhattachariya
 Version: 1.0
-Author URI: http://www.bhaskarbhattachariya.com/
+Author URI: http://bhattachariya.wordpress.com/
 ------------------------------------------------------------------------------ */
 
 include_once('includes/SearchWidget.php');
