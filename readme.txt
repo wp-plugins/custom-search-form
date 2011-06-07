@@ -44,6 +44,9 @@ For the time being no. If I get some time to modify this widget in the near futu
 
 == Changelog ==
 
+1.0.  
+The plugin files were in a folder of their own and as a result the plugin appeared broken. Fixed it.
+
 
 == Arbitrary section ==
 
